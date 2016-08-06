@@ -1,2 +1,5 @@
 *.py[cod]
 .ipynb_checkpoints/
+.DS_Store
+talking_data/input/
+talking_data/output/
